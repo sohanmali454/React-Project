@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+
+th {
+    background: #a3c2c2;
+}
+
+tr {
+    height: 30px;
+}

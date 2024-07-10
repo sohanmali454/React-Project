@@ -1,0 +1,17 @@
+h1 {
+    width: 100%;
+    background: #527a7a;
+    padding: 20px;
+    text-align: center;
+    color: whitesmoke;
+    height: auto;
+}
+
+input[type=button] {
+    background: #334d4d;
+    margin-top: 5%;
+    padding: 10px;
+    border-radius: 0 10px;
+    margin-left: 80%;
+    color: aliceblue;
+}

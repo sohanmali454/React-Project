@@ -1,0 +1,18 @@
+    .tbl {
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        height: 30%;
+        padding: 20px;
+    }
+    
+    form {
+        border: 2px solid #1e2f2f;
+        width: 20%;
+        text-align: center;
+    }
+    
+    h3 {
+        background: #73a5a5;
+        color: aliceblue;
+    }
